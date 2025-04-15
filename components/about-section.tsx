@@ -106,12 +106,8 @@ export default function AboutSection() {
                   <Badge className="bg-purple-500 hover:bg-purple-600">Spring Boot</Badge>
                   <Badge className="bg-purple-500 hover:bg-purple-600">PostgreSQL</Badge>
                   <Badge className="bg-purple-500 hover:bg-purple-600">MongoDB</Badge>
-                  <Badge className="bg-purple-500 hover:bg-purple-600">Docker</Badge>
-                  <Badge className="bg-purple-500 hover:bg-purple-600">Kubernetes</Badge>
-                  <Badge className="bg-purple-500 hover:bg-purple-600">AWS</Badge>
                   <Badge className="bg-purple-500 hover:bg-purple-600">TypeScript</Badge>
                   <Badge className="bg-purple-500 hover:bg-purple-600">Python</Badge>
-                  <Badge className="bg-purple-500 hover:bg-purple-600">Go</Badge>
                   <Badge className="bg-purple-500 hover:bg-purple-600">Microservices</Badge>
                   <Badge className="bg-purple-500 hover:bg-purple-600">API Design</Badge>
                 </div>

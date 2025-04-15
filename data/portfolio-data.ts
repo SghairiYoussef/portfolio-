@@ -168,12 +168,12 @@ export const projects = [
   },
   {
     id: 6,
-    title: "SpringBoot Microservices",
+    title: "CareSync",
     description:
       "A collection of microservices built using Spring Boot, demonstrating various design patterns and best practices for building scalable and maintainable applications.",
     tags: ["Spring Boot", "Docker", "JWT", "PostgreSQL", "Kafka"],
     image: "/microservices.jpg",
-    github: "https://github.com/SghairiYoussef/microservices-SpringBoot",
+    github: "https://github.com/SghairiYoussef/caresync",
     demo: ""
   }
 ]
