@@ -95,7 +95,7 @@ export default function Header() {
       <div className="container flex h-16 items-center justify-between px-4 sm:px-6 lg:px-8">
         <Link href="/" className="flex items-center space-x-2">
           <span className="text-xl font-bold bg-clip-text text-transparent bg-gradient-to-r from-purple-500 to-purple-700 dark:from-purple-400 dark:to-purple-600">
-            Dev.Portfolio
+            Youssef Sghairi
           </span>
         </Link>
 

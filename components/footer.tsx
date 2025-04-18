@@ -12,7 +12,7 @@ export default function Footer() {
               href="/"
               className="text-xl font-bold bg-clip-text text-transparent bg-gradient-to-r from-purple-500 to-purple-700 dark:from-purple-400 dark:to-purple-600"
             >
-              Dev.Portfolio
+              Sghairi Youssef
             </Link>
             <p className="text-center text-sm text-muted-foreground md:text-left">
               &copy; {new Date().getFullYear()} All rights reserved.
@@ -37,15 +37,6 @@ export default function Footer() {
             >
               <Linkedin className="h-5 w-5" />
               <span className="sr-only">LinkedIn</span>
-            </Link>
-            <Link
-              href={personalInfo.socialLinks.twitter}
-              target="_blank"
-              rel="noopener noreferrer"
-              className="rounded-full p-2 text-muted-foreground hover:text-foreground transition-colors"
-            >
-              <Twitter className="h-5 w-5" />
-              <span className="sr-only">Twitter</span>
             </Link>
             <Link
               href={`mailto:${personalInfo.email}`}
