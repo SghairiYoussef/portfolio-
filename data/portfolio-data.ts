@@ -106,7 +106,7 @@ export const experiences = [
       "I collaborated in developing a user-generated content platform for creators and online sellers in a project entitled Levii. My focus was on designing and implementing responsive user interfaces using Vue.js, TailwindCSS, to enhance user engagement and optimize usability. The project showcased my proficiency in frontend web development and UI design, highlighting my problem-solving skills and attention to detail.",
   },
   {
-    period: "2020-Present",
+    period: "2022-Present",
     role: "Software Engineering Student @ INSAT",
     company: "INSTITUT NATIONAL DES SCIENCES APPLIQUEES ET DE TECHNOLOGIES - National Institute of Applied Sciences and Technology (INSAT)", 
     description:
