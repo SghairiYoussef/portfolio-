@@ -94,6 +94,11 @@ export default function Header() {
     <header className="sticky top-0 z-50 w-full border-b bg-background/95 backdrop-blur-sm transition-all duration-200">
       <div className="container flex h-16 items-center justify-between px-4 sm:px-6 lg:px-8">
         <Link href="/" className="flex items-center space-x-2">
+          <img
+            className="h-10 w-10 rounded-full object-cover border-2 border-purple-600"
+            src="/icons/icon.png"
+            alt="Youssef's portrait"
+          />
           <span className="text-xl font-bold bg-clip-text text-transparent bg-gradient-to-r from-purple-500 to-purple-700 dark:from-purple-400 dark:to-purple-600">
             Youssef Sghairi
           </span>

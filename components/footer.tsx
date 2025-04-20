@@ -8,10 +8,12 @@ export default function Footer() {
       <div className="container px-4 md:px-6">
         <div className="flex flex-col items-center justify-between gap-6 md:flex-row">
           <div className="flex flex-col items-center gap-2 md:items-start">
+          
             <Link
               href="/"
               className="text-xl font-bold bg-clip-text text-transparent bg-gradient-to-r from-purple-500 to-purple-700 dark:from-purple-400 dark:to-purple-600"
             >
+            
               Sghairi Youssef
             </Link>
             <p className="text-center text-sm text-muted-foreground md:text-left">

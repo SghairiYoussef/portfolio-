@@ -118,6 +118,26 @@ export const experiences = [
 export const projects = [
   {
     id: 1,
+    title: "GrindAI",
+    description:
+      "A modular fitness tracking application built with Spring Boot microservices, featuring service discovery with Eureka, asynchronous messaging via RabbitMQ, and AI-powered insights through Google gemini-2.0-flash integration.",
+    tags: ["Spring Boot", "RabbitMQ", "PostgreSQL", "MongoDB", "Google Gemini"],
+    image: "/grindAI.png",
+    github: "https://github.com/SghairiYoussef/grindAI",
+    demo: ""
+  },
+  {
+    id: 2,
+    title: "CareSync",
+    description:
+      "A collection of microservices built using Spring Boot, demonstrating various design patterns and best practices for building scalable and maintainable applications.",
+    tags: ["Spring Boot", "Docker", "JWT", "PostgreSQL", "Kafka"],
+    image: "/microservices.png",
+    github: "https://github.com/SghairiYoussef/caresync",
+    demo: ""
+  },
+  {
+    id: 3,
     title: "Dungeon AI",
     description:
       "A web app where players describe their actions in a fantasy RPG, and an AI dynamically acts as the Dungeon Master, generating responses, quests, and battles.",
@@ -127,7 +147,7 @@ export const projects = [
     demo: ""
   },
   {
-    id: 2,
+    id: 4,
     title: "ML Concepts from scratch",
     description:
       "A repository that contains implementations of fundamental machine learning concepts built from scratch using only Python and libraries like NumPy. The goal is to provide a clear, hands-on understanding of how common machine learning algorithms and techniques work under the hood.",
@@ -137,7 +157,7 @@ export const projects = [
     demo: ""
   },
   {
-    id: 3,
+    id: 5,
     title: "INSAT Social Club",
     description:
       "INSAT Social Club is a Social Media platform designed to help you connect with friends and family, share your thoughts, ideas, and memories, and stay connected no matter where you are. With real-time chat functionality, you can easily keep in touch with your loved ones.",
@@ -147,7 +167,7 @@ export const projects = [
     demo: ""
   },
   {
-    id: 4,
+    id: 6,
     title: "2D Game Portfolio",
     description:
       "Game-Based Navigation: Explore my projects through an interactive game. Responsive Design: Works on all devices. Project Gallery: Displays various projects with descriptions and links.",
@@ -157,7 +177,7 @@ export const projects = [
     demo: "https://youssefsghairiportfolio.vercel.app/",
   },
   {
-    id: 5,
+    id: 7,
     title: "MeetQuest",
     description:
     "MeetQuest is a virtual meeting platform designed to provide an engaging and interactive experience for users. Inspired by Gather, MeetQuest allows individuals and teams to collaborate in 2D spaces, where they can move their avatars, interact with others in real-time, and access various tools for communication and productivity.",
@@ -166,14 +186,6 @@ export const projects = [
     github: "https://github.com/orgs/MeetQuest/repositories",
     demo: ""
   },
-  {
-    id: 6,
-    title: "CareSync",
-    description:
-      "A collection of microservices built using Spring Boot, demonstrating various design patterns and best practices for building scalable and maintainable applications.",
-    tags: ["Spring Boot", "Docker", "JWT", "PostgreSQL", "Kafka"],
-    image: "/microservices.png",
-    github: "https://github.com/SghairiYoussef/caresync",
-    demo: ""
-  }
+  
+
 ]
