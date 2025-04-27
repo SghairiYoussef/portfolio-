@@ -88,7 +88,7 @@ export default function HeroSection() {
             </Link>
           </Button>
           <Button asChild size="lg" className="bg-gradient-to-r from-cyan-600 to-cyan-800 hover:from-cyan-700 hover:to-cyan-900 text-white">
-            <Link href="https://drive.google.com/file/d/1xp4rsa-FOp9FXHCXOM017Uo2NdueRBwb/view?usp=sharing">
+            <Link href="https://drive.google.com/file/d/108NeYzdeO6W9-km7o7tCMLLDbLqrJzrp/view?usp=sharing">
               Get My Resume
             </Link>
           </Button>
