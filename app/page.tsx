@@ -4,6 +4,7 @@ import ProjectGrid from "@/components/project-grid"
 import AboutSection from "@/components/about-section"
 import ContactForm from "@/components/contact-form"
 import Footer from "@/components/footer"
+import { Analytics } from "@vercel/analytics/react"
 
 export default function Home() {
   return (
@@ -14,6 +15,7 @@ export default function Home() {
         <AboutSection />
         <ProjectGrid />
         <ContactForm />
+        <Analytics />
       </main>
       <Footer />
     </div>
