@@ -246,4 +246,4 @@ import { Database, Server, Code, Gamepad, Globe, BarChart } from "lucide-react"
         description:
           "Founded and led youth‑driven community impact initiatives.",
       },
-    ]u
+    ]
