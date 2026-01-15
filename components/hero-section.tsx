@@ -4,7 +4,7 @@ import type React from "react"
 
 import { Button } from "@/components/ui/button"
 import { motion } from "framer-motion"
-import { ArrowDown, Server } from "lucide-react"
+import { ArrowDown } from "lucide-react"
 import Link from "next/link"
 import { personalInfo } from "@/data/portfolio-data"
 import { scrollToSection } from "@/hooks/use-scroll-to-section"
